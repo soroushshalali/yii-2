@@ -1,0 +1,1 @@
+test alias yii2 \n
